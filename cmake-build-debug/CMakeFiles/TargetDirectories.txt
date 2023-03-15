@@ -1,0 +1,3 @@
+/Users/rtavaressilva/CLionProjects/RockPaperScissorsLizardSpock/cmake-build-debug/CMakeFiles/RockPaperScissorsLizardSpock.dir
+/Users/rtavaressilva/CLionProjects/RockPaperScissorsLizardSpock/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rtavaressilva/CLionProjects/RockPaperScissorsLizardSpock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
